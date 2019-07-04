@@ -1,3 +1,7 @@
+## Stock Geeks
+
+We are a group of passionated Software Developers. We love to learn and share our experiences online, delivering talks to our team mates, in meetups and conferences. We also produce hight quality content to share knowledge.  
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/stockgeeks/stockgeeks.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
